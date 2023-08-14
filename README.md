@@ -47,8 +47,6 @@ First, we need to install and load the following R and Python packages.
 Second, to reproduce the results, put the files provided in the 
 working directory and execute the following commands in R:source("untrans.R")
 
-Third, 
-
-run: Main.R
+Third, run: Main.R
 
 
