@@ -13,12 +13,12 @@ It is required to install the following dependencies in order to be able to run 
 
 - [Anaconda3](https://www.anaconda.com/products/individual)  
 - [python 3](https://www.python.org/downloads/)  
-  [sklearn](https://pypi.org/project/sklearn/0.0/)
-  [numpy 1.19.1](https://pypi.org/project/numpy/1.19.1/)
-  [xgboost 1.6.1](https://pypi.org/project/xgboost/1.6.1/)
-  [glmnet 4.1.2](https://pypi.org/project/glmnet/)
-  [R>=4.1.0](https://www.r-project.org/)  
-  [reticulate](https://cran.r-project.org/web/packages/reticulate)
+- [sklearn](https://pypi.org/project/sklearn/0.0/)
+- [numpy 1.19.1](https://pypi.org/project/numpy/1.19.1/)
+- [xgboost 1.6.1](https://pypi.org/project/xgboost/1.6.1/)
+- [glmnet 4.1.2](https://pypi.org/project/glmnet/)
+- [R>=4.1.0](https://www.r-project.org/)  
+- [reticulate](https://cran.r-project.org/web/packages/reticulate)
   
   
 
