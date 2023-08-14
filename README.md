@@ -9,7 +9,7 @@ This study introduces a survival algorithm that integrates regression trees and 
 
 ## Requirements
 
-It is required to install the following dependencies in order to be able to run the code of scDLC
+It is required to install the following dependencies in order to be able to run the code
 
 - [Anaconda3](https://www.anaconda.com/products/individual)  
 - [python 3](https://www.python.org/downloads/)  
