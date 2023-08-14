@@ -27,7 +27,7 @@ It is required to install the following dependencies in order to be able to run 
 The data used in this research are collected from R package bayesSurv and ADNIMERGE.
 
 
-## The describe of the program
+## Functions
 
 The program is divided into three sections saved in this repository.
 
@@ -36,5 +36,19 @@ The program is divided into three sections saved in this repository.
 2) XGBt.py: a python code for training the XGBoost model with grid search method.
 
 3) Main.R: The code is used to reproduce the prediction results.
+   
+
+## Instructions for Use
+
+The code provided can be used to reproduce the results of ICBoost.
+
+First, we need to install and load the following R and Python packages.
+
+Second, to reproduce the results, put the files provided in the 
+working directory and execute the following commands in R:source("untrans.R")
+
+Third, 
+
+run: Main.R
 
 
