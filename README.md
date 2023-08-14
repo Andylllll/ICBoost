@@ -4,7 +4,7 @@ This repository contains python and R implementation of the algorithms proposed 
 
 ## Description
 
-This study introduces a survival algorithm that integrates regression trees and ensembles for interval-censored data (ICBoost). Due to the interval-censored characteristics of the data, accurate prediction of survival is challenging. Therefore, in this paper， an unbiased transformation method that utilizes kernel density estimation is proposed to impute the failure time and predict survival. 
+This study introduces a survival algorithm that integrates regression trees and ensembles for interval-censored data (ICBoost). Due to the interval-censored characteristics of the data, accurate prediction of survival is challenging. Therefore, in this paper, an unbiased transformation method that utilizes kernel density estimation is proposed to impute the failure time and predict survival. 
 
 
 ## Requirements
